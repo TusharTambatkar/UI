@@ -1,0 +1,77 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: linear-gradient(to right, rgb(236, 226, 210), rgba(255, 0, 0, 0.548), brown);
+}
+
+.t1 {
+   
+    
+    border: solid black;
+    border-radius: 20px;
+    width: 200px;
+    margin-left: 43%;
+    padding-left: 60px;
+   
+}
+#imp{
+    position: absolute;
+    right: 15px;
+    border: double;
+    border-radius: 50px;
+}
+#main{
+    border: solid ;
+}
+#di1{
+    margin-left: 75%;
+}
+#id2{
+    margin-left: 10px;
+}
+#di4{
+    display: flex;
+    
+}
+
+#aim1{
+    height:50px;
+    position: fixed;
+    bottom: 1px;
+    right: 1px;
+    border : double rgb(214, 177, 177);
+    text-decoration:none;
+    border-radius: 50px;
+     
+}
+.c11{
+    color: rgba(76, 0, 255, 0.995);
+    
+}
+
+
+#di5{
+    display: flex;
+}
+#di5 a{
+    border: solid  rgb(0, 0, 0);
+    border-radius: 20px;
+    background-color: white;
+    margin-left: 150px;
+    text-decoration: none;
+    padding:7px ;
+    color: black;
+}
+#di41{
+    display: flex;
+    justify-content: space-around;
+}
+.C-di41{
+    border: dotted;
+    height: 300px;
+    width: 280px;
+    border-radius: 20px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
