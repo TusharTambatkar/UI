@@ -1,0 +1,70 @@
+#main{
+    border: solid;
+    height: 600px;
+    display: grid;
+    grid-template-rows: 150px 300px 150px;
+    background-color: rgb(29, 4, 31);
+}
+#main-img{
+    border-radius: 60px;
+}
+.C-main{
+    border: solid;
+    margin: 6px;
+
+}
+#main-d1{
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(rgb(241, 13, 13),rgb(83, 13, 247),rgb(205, 205, 82));
+}
+#d1-1{
+    display: flex;
+    
+}
+.C-d1-1{
+    border: solid;
+    height: 35px;
+    margin-right: 10px;
+}
+.C-d2{
+    border: solid;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 14px;
+    width: 320px;
+    margin-right: 80px;
+    margin-left: 170px;
+    background-image: linear-gradient(rgb(175, 130, 45),rgb(115, 59, 235),rgb(7, 114, 7));
+
+}
+#main-d2{
+  display: grid;
+  grid-template-columns: 200px 200px;
+  gap: 260px;
+  background-image: linear-gradient(rgb(241, 13, 13),rgb(83, 13, 247),rgb(205, 205, 82));
+
+}
+.H{
+    border: solid;
+
+    width: 100px;
+
+}
+#d2-1{
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: 100px 100px;
+    
+}
+.C-d3{
+    height: 100px;
+    margin: 6px ;
+    border-radius: 50px;
+}
+#main-d3{
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(rgb(241, 13, 13),rgb(83, 13, 247),rgb(205, 205, 82));
+
+}
