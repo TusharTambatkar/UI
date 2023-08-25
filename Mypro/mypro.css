@@ -1,0 +1,50 @@
+
+body{
+    background-image: url("./pexels-hazily-light-17854892.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.img-cra{
+    height: 50vh;
+    border-radius: 20px;
+}
+.carousell{
+    width: 120vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#headd{
+    font-family: 'Kaushan Script', cursive;
+    margin-left: 300px;
+   font-size: 80px;
+   text-shadow: 2px 2px #ff0000;
+}
+#headd1{
+margin-left: 350px;
+font-size: 20px;
+display: flex;
+
+
+    
+}
+#hrr{
+    color: #080808;
+    border: solid;
+    justify-content: space-between;
+}
+
+#log1{
+    height: 120px;
+    width: 150px;
+    margin-left: 630px;
+    margin-top: 10px;
+   border-radius: 120px;  
+   background-image: linear-gradient(rgb(9, 9, 9), rgb(245, 243, 243) , rgb(6, 6, 5));
+    border: solid rgb(24, 22, 22);
+}
+#navv1{
+    background-color: #e3dee0 !important;
+}
+

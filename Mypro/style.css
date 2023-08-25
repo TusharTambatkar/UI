@@ -1,0 +1,42 @@
+body{
+    background-image: url("./pexels-charlotte-may-5825722.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.card img{
+    height: 200px;
+    width: 288px;
+    border-radius: 30px;
+    
+}
+.card{
+    border: 1px solid;
+    text-align: center;
+    padding: 10px;
+    border-radius: 40px;
+    background-image: linear-gradient(rgb(232, 163, 13), rgb(229, 233, 236));
+   
+}
+.btn{
+    text-decoration: none;
+    color:rgb(14, 14, 14);
+    background-image: linear-gradient(rgb(229, 233, 236), rgb(232, 163, 13));
+    border: solid;
+    border-radius: 20px;
+}
+#main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+
+   }
+#hed{
+     background-image: linear-gradient(rgb(232, 163, 13), rgb(229, 233, 236));
+color:rgb(4, 4, 4);
+padding-left:580px;
+border:solid black;
+border-radius: 20px;
+font-family: 'Barriecito', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Kaushan Script', cursive;
+}
